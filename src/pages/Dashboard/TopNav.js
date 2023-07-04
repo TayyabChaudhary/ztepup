@@ -42,7 +42,7 @@ const TopNav = () => {
         </div>
 
         <div className="flex gap-[32px] items-center">
-          <div className="py-[3px] px-[7.48px] border-[1px] border-solid rounded-lg flex gap-[5.5px] items-center">
+          <div className="py-[3px] px-[7.48px]  border-[1px] border-solid rounded-lg flex gap-[5.5px] items-center">
             <div className="">
               <svg
                 width="14"
@@ -61,7 +61,7 @@ const TopNav = () => {
               <input
                 type="text"
                 placeholder="Search"
-                className="focus:outline-none"
+                className="focus:outline-none w-[260px]"
               />
             </div>
           </div>

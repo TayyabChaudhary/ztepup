@@ -3,7 +3,7 @@ import React from "react";
 const Rightbar = () => {
   return (
     <>
-      <div className="w-[243px] p-[24px] min-h-[951px]">
+      <div className="w-[243px] p-[24px] min-h-[951px] bg-[white]">
         <div className="grid grid-cols-1 gap-[20px]">
           <div className="flex justify-between items-center">
             <div>

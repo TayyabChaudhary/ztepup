@@ -3,7 +3,7 @@ import React from "react";
 const Leftbar = () => {
   return (
     <>
-      <div className="w-[247px] p-[24px] min-h-[951px]">
+      <div className="w-[247px] p-[24px] min-h-[951px] bg-white">
         <div className="max-w-[188px] grid grid-cols-1 gap-[32px] pt-[12px]  ">
           <div className="max-w-[182px]">
             <img src="/assets/images/z-t-e-p^.png" alt="" />

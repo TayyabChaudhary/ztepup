@@ -4,7 +4,7 @@ import Rightbar from "./Leftbar";
 import Leftbar from "./Rightbar";
 import TopNav from "./TopNav";
 
-const Layout = ({childrens}) => {
+const Layout = ({children}) => {
   return (
     <>
       <div className="max-w-[1580px] mx-auto flex">
@@ -13,7 +13,7 @@ const Layout = ({childrens}) => {
         <div className="w-[calc(100%-490px)] bg-[#F5F5F5]">
           <TopNav/>
           <div className="p-[32px]">
-          {childrens}
+          {children}
 
           </div>
         </div>

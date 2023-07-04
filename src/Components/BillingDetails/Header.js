@@ -126,9 +126,8 @@ export default function Header() {
                   </label>
                   <br></br>
                   <input
-                    className="border-[1px] mt-3 border-gray-300 ml-3 px-3 text-sm w-[140px] h-[32px] outline-none rounded-[8px]"
+                    className="border-[1px] form-control mt-3 border-gray-300 ml-3 px-3 text-sm w-[140px] h-[32px] outline-none rounded-[8px]"
                     type="text"
-                    className="form-control"
                     placeholder="CVV"
                     id="cvv"
                   />
